@@ -19,4 +19,4 @@
 | DawninShadow | *Null* | [http://tokdawn.github.io/](http://tokdawn.github.io/) |
 | 鸡排Story | 一个存放故事的地方 | [http://jipai.moe/](http://jipai.moe/) |
 | Chen's Blog | *Null* | [http://chenzhihao.cc/](http://chenzhihao.cc/) |
-| 段渣渣 | Just Want To Change | [http://www.duanzhazha.com/) |
+| 段渣渣 | Just Want To Change | [http://www.duanzhazha.com/](http://www.duanzhazha.com/) |
